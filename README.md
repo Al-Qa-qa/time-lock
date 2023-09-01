@@ -42,6 +42,7 @@
 ## About The Project
 
 `Timelock` is one of the smart contracts that are used a lot in the blockchain space. `TimeLock` delays transaction execution for a given time, it is a must in building any DAO or governance system.
+
 We built a simple `TimeLock` contract that stores transactions, and open their execution after a period of time.
 
 We used blockchain technology, the Ethereum network, and smart contract development technology to achieve our goal.
